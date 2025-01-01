@@ -1,6 +1,6 @@
 package Java;
 
-public class SumOfDivisors {
+public class SumOfDivisors_0101 {
     public static void main(String[] args) {
         int answer = 0;
         int n = 12;
