@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="수박수박수박수박수박수?">
-      <change afterPath="$PROJECT_DIR$/src/Java/NumericStringsAndEnglish_0102.java" afterDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="숫자 문자열과 영단어">
+      <change afterPath="$PROJECT_DIR$/src/Java/PrimeSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.NumericStringsAndEnglish_0102.executor": "Run",
+    "Application.PrimeSum.executor": "Run",
     "Application.SumOfDivisors.executor": "Run",
     "Application.Watermelon_0102.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -75,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1735727891433</updated>
       <workItem from="1735727892879" duration="873000" />
-      <workItem from="1735778760635" duration="1920000" />
+      <workItem from="1735778760635" duration="6476000" />
     </task>
     <task id="LOCAL-00001" summary="create Repository">
       <option name="closed" value="true" />
@@ -117,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735779177272</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="숫자 문자열과 영단어">
+      <option name="closed" value="true" />
+      <created>1735780785784</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735780785784</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,29 +136,30 @@
     <MESSAGE value="create Repository" />
     <MESSAGE value="약수의 합" />
     <MESSAGE value="수박수박수박수박수박수?" />
-    <option name="LAST_COMMIT_MESSAGE" value="수박수박수박수박수박수?" />
+    <MESSAGE value="숫자 문자열과 영단어" />
+    <option name="LAST_COMMIT_MESSAGE" value="숫자 문자열과 영단어" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Java/NumericStringsAndEnglish_0102.java</url>
-          <line>24</line>
+          <line>23</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Java/NumericStringsAndEnglish_0102.java</url>
-          <line>16</line>
+          <line>15</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Java/NumericStringsAndEnglish_0102.java</url>
-          <line>13</line>
+          <line>12</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Java/NumericStringsAndEnglish_0102.java</url>
-          <line>10</line>
+          <line>9</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -159,17 +169,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Java/NumericStringsAndEnglish_0102.java</url>
-          <line>32</line>
+          <line>31</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Java/NumericStringsAndEnglish_0102.java</url>
-          <line>40</line>
+          <line>39</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Java/NumericStringsAndEnglish_0102.java</url>
-          <line>43</line>
+          <line>42</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
