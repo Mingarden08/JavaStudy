@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="소수 찾기">
-      <change afterPath="$PROJECT_DIR$/src/Level_0/SquareNumber_0103.java" afterDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="제곱근 판별">
+      <change afterPath="$PROJECT_DIR$/src/Level_0/CommonMultiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level_0/PointLocation_0103.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/NumericStringsAndEnglish_0102.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level_1/NumericStringsAndEnglish_0102.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/PrimeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level_1/PrimeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/SumOfDivisors_0101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level_1/SumOfDivisors_0101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/Watermelon_0102.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level_1/Watermelon_0102.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +41,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CommonMultiple.executor": "Run",
     "Application.NumericStringsAndEnglish_0102.executor": "Run",
+    "Application.PointLocation_0103.executor": "Run",
     "Application.PrimeSum.executor": "Run",
     "Application.Spiral.executor": "Run",
     "Application.Spiral_0103.executor": "Run",
@@ -83,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1735727891433</updated>
       <workItem from="1735727892879" duration="873000" />
-      <workItem from="1735778760635" duration="11538000" />
+      <workItem from="1735778760635" duration="12493000" />
     </task>
     <task id="LOCAL-00001" summary="create Repository">
       <option name="closed" value="true" />
@@ -141,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735785308756</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="제곱근 판별">
+      <option name="closed" value="true" />
+      <created>1735875387776</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735875387776</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,7 +171,8 @@
     <MESSAGE value="수박수박수박수박수박수?" />
     <MESSAGE value="숫자 문자열과 영단어" />
     <MESSAGE value="소수 찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value="소수 찾기" />
+    <MESSAGE value="제곱근 판별" />
+    <option name="LAST_COMMIT_MESSAGE" value="제곱근 판별" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
