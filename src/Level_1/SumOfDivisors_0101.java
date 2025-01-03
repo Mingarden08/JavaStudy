@@ -1,4 +1,4 @@
-package Java;
+package Level_1;
 
 public class SumOfDivisors_0101 {
     public static void main(String[] args) {
