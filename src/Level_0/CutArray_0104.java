@@ -2,7 +2,7 @@ package Level_0;
 
 import java.util.Arrays;
 
-public class CutArray {
+public class CutArray_0104 {
     public static void main(String[] args) {
         int[] numbers = {1, 2, 3, 4, 5}; int num1 = 2; int num2 = 3;
         int[] answer = new int[num2 - num1+1];
