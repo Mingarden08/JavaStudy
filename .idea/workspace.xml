@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="배열 자르기, 짝수는 싫어요">
-      <change afterPath="$PROJECT_DIR$/src/Level_0/ChangeTheCasetoPrint_0104.java" afterDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="대소문자 바꿔서 출력하기">
+      <change afterPath="$PROJECT_DIR$/src/Level_1/AddDigits_0104.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AddDigits_0104.executor": "Run",
     "Application.ChangeTheCasetoPrint_0104.executor": "Run",
     "Application.CommonMultiple.executor": "Run",
     "Application.CutArray.executor": "Run",
@@ -87,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1735727891433</updated>
       <workItem from="1735727892879" duration="873000" />
-      <workItem from="1735778760635" duration="16500000" />
+      <workItem from="1735778760635" duration="17139000" />
     </task>
     <task id="LOCAL-00001" summary="create Repository">
       <option name="closed" value="true" />
@@ -185,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735964835923</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="대소문자 바꿔서 출력하기">
+      <option name="closed" value="true" />
+      <created>1735965704104</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1735965704104</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +222,8 @@
     <MESSAGE value="최댓값 만들기, 공배수, 삼각형 만들기" />
     <MESSAGE value="배열 자르기" />
     <MESSAGE value="배열 자르기, 짝수는 싫어요" />
-    <option name="LAST_COMMIT_MESSAGE" value="배열 자르기, 짝수는 싫어요" />
+    <MESSAGE value="대소문자 바꿔서 출력하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="대소문자 바꿔서 출력하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
