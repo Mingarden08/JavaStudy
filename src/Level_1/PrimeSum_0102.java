@@ -1,6 +1,6 @@
 package Level_1;
 
-public class PrimeSum {
+public class PrimeSum_0102 {
     public static void main(String[] args) {
         int n = 10; int answer = 0;
         for(int i = 2; i<=n; i++)
