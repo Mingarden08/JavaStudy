@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="짝수와 홀수, 평균 찾기">
-      <change afterPath="$PROJECT_DIR$/src/Level_1/NumbersSpacedApartbyX_0104.java" afterDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="x만큼 간격이 있는 n개의 숫자">
+      <change afterPath="$PROJECT_DIR$/src/Level_1/ConvertStringtoInteger_0105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level_1/FindPandYinString_0105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level_1/FindRemainderIs1_0105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level_1/IntegerDescendingOrder_0105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level_1/SumBetweenTwoIntegers_0105.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,10 +47,14 @@
     "Application.AddDigits_0104.executor": "Run",
     "Application.ChangeTheCasetoPrint_0104.executor": "Run",
     "Application.CommonMultiple.executor": "Run",
+    "Application.ConvertStringtoInteger_0105.executor": "Run",
     "Application.CutArray.executor": "Run",
     "Application.DontLikeEvenNumbers_0104.executor": "Run",
     "Application.EvenOdd.executor": "Run",
     "Application.FindAverage_0104.executor": "Run",
+    "Application.FindPandYinString_0105.executor": "Run",
+    "Application.FindRemainderIs1_0105.executor": "Run",
+    "Application.IntegerDescendingOrder_0105.executor": "Run",
     "Application.MakeMaxValue_0103.executor": "Run",
     "Application.MakeTriangle_0103.executor": "Run",
     "Application.NumberOfOrderedPairs_0103.executor": "Run",
@@ -57,6 +65,7 @@
     "Application.Spiral.executor": "Run",
     "Application.Spiral_0103.executor": "Run",
     "Application.SquareNumber_0103.executor": "Run",
+    "Application.SumBetweenTwoIntegers_0105.executor": "Run",
     "Application.SumOfDivisors.executor": "Run",
     "Application.Watermelon_0102.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -91,7 +100,8 @@
       <option name="presentableId" value="Default" />
       <updated>1735727891433</updated>
       <workItem from="1735727892879" duration="873000" />
-      <workItem from="1735778760635" duration="18641000" />
+      <workItem from="1735778760635" duration="18795000" />
+      <workItem from="1736077706923" duration="3557000" />
     </task>
     <task id="LOCAL-00001" summary="create Repository">
       <option name="closed" value="true" />
@@ -213,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735966662572</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="x만큼 간격이 있는 n개의 숫자">
+      <option name="closed" value="true" />
+      <created>1735967862621</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1735967862621</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +262,8 @@
     <MESSAGE value="대소문자 바꿔서 출력하기" />
     <MESSAGE value="자릿수 더하기" />
     <MESSAGE value="짝수와 홀수, 평균 찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value="짝수와 홀수, 평균 찾기" />
+    <MESSAGE value="x만큼 간격이 있는 n개의 숫자" />
+    <option name="LAST_COMMIT_MESSAGE" value="x만큼 간격이 있는 n개의 숫자" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
