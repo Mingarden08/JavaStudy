@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="모음 제거">
-      <change afterPath="$PROJECT_DIR$/src/Level_0/StringWithinString_0105.java" afterDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="오늘은 여기까지!!">
+      <change afterPath="$PROJECT_DIR$/src/Level_2/MaximumAndMinimum_0106.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level_1/IntegerDescendingOrder_0105.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level_1/IntegerDescendingOrder_0105.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,7 @@
     "Application.IntegerDescendingOrder_0105.executor": "Run",
     "Application.MakeMaxValue_0103.executor": "Run",
     "Application.MakeTriangle_0103.executor": "Run",
+    "Application.MaximumAndMinimum_0106.executor": "Run",
     "Application.NumberOfOrderedPairs_0103.executor": "Run",
     "Application.NumbersSpacedApartbyX_0104.executor": "Run",
     "Application.NumericStringsAndEnglish_0102.executor": "Run",
@@ -99,7 +99,9 @@
       <updated>1735727891433</updated>
       <workItem from="1735727892879" duration="873000" />
       <workItem from="1735778760635" duration="18795000" />
-      <workItem from="1736077706923" duration="4603000" />
+      <workItem from="1736077706923" duration="4643000" />
+      <workItem from="1736120877953" duration="1433000" />
+      <workItem from="1736136760432" duration="3589000" />
     </task>
     <task id="LOCAL-00001" summary="create Repository">
       <option name="closed" value="true" />
@@ -253,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736081923424</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="오늘은 여기까지!!">
+      <option name="closed" value="true" />
+      <created>1736082371366</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1736082371366</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,7 +297,8 @@
     <MESSAGE value="x만큼 간격이 있는 n개의 숫자" />
     <MESSAGE value="문자열 내 p와 y의 개수, 두 정수 사이의 합, 문자열을 정수로 바꾸기, 나머지가 1이 되는 수 찾기" />
     <MESSAGE value="모음 제거" />
-    <option name="LAST_COMMIT_MESSAGE" value="모음 제거" />
+    <MESSAGE value="오늘은 여기까지!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="오늘은 여기까지!!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
