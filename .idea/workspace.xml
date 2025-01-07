@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="정수 제곱근 판별">
-      <change afterPath="$PROJECT_DIR$/src/Level_1/HarshadNumber_0107.java" afterDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="하샤드 수">
+      <change afterPath="$PROJECT_DIR$/src/Level_1/FindKim_0107.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     "Application.EvenOdd.executor": "Run",
     "Application.Fibonacci_0106.executor": "Run",
     "Application.FindAverage_0104.executor": "Run",
+    "Application.FindKim_0107.executor": "Run",
     "Application.FindPandYinString_0105.executor": "Run",
     "Application.FindRemainderIs1_0105.executor": "Run",
     "Application.HarshadNumber_0107.executor": "Run",
@@ -107,7 +108,7 @@
       <workItem from="1736120877953" duration="1433000" />
       <workItem from="1736136760432" duration="6437000" />
       <workItem from="1736233293222" duration="619000" />
-      <workItem from="1736251768493" duration="1215000" />
+      <workItem from="1736251768493" duration="1868000" />
     </task>
     <task id="LOCAL-00001" summary="create Repository">
       <option name="closed" value="true" />
@@ -293,7 +294,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736255031877</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="하샤드 수">
+      <option name="closed" value="true" />
+      <created>1736258221487</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1736258221487</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,7 +340,8 @@
     <MESSAGE value="최댓값과 최솟값" />
     <MESSAGE value="피보나치 수열" />
     <MESSAGE value="정수 제곱근 판별" />
-    <option name="LAST_COMMIT_MESSAGE" value="정수 제곱근 판별" />
+    <MESSAGE value="하샤드 수" />
+    <option name="LAST_COMMIT_MESSAGE" value="하샤드 수" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
