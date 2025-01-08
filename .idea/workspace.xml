@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="서울에서 김서방 찾기">
-      <change afterPath="$PROJECT_DIR$/src/Level_1/ArrayofNumbersThatFallApart_0108.java" afterDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="나누어 떨어지는 숫자 배열">
+      <change afterPath="$PROJECT_DIR$/src/Level_1/ColatzGuess_0108.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +43,7 @@
     "Application.AddDigits_0104.executor": "Run",
     "Application.ArrayofNumbersThatFallApart_0108.executor": "Run",
     "Application.ChangeTheCasetoPrint_0104.executor": "Run",
+    "Application.ColatzGuess_0108.executor": "Run",
     "Application.CommonMultiple.executor": "Run",
     "Application.ConvertStringtoInteger_0105.executor": "Run",
     "Application.CutArray.executor": "Run",
@@ -111,7 +112,7 @@
       <workItem from="1736233293222" duration="619000" />
       <workItem from="1736251768493" duration="1897000" />
       <workItem from="1736308776758" duration="72000" />
-      <workItem from="1736315993368" duration="1318000" />
+      <workItem from="1736315993368" duration="3218000" />
     </task>
     <task id="LOCAL-00001" summary="create Repository">
       <option name="closed" value="true" />
@@ -313,7 +314,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736260771698</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="나누어 떨어지는 숫자 배열">
+      <option name="closed" value="true" />
+      <created>1736319409519</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1736319409519</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,7 +362,8 @@
     <MESSAGE value="정수 제곱근 판별" />
     <MESSAGE value="하샤드 수" />
     <MESSAGE value="서울에서 김서방 찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value="서울에서 김서방 찾기" />
+    <MESSAGE value="나누어 떨어지는 숫자 배열" />
+    <option name="LAST_COMMIT_MESSAGE" value="나누어 떨어지는 숫자 배열" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
