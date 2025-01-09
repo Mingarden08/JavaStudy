@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="콜라츠 추측" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="음양 더하기">
+      <change afterPath="$PROJECT_DIR$/src/Level_1/AddMissingMumbers_0109.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AddDigits_0104.executor": "Run",
+    "Application.AddMissingMumbers_0109.executor": "Run",
     "Application.ArrayofNumbersThatFallApart_0108.executor": "Run",
     "Application.ChangeTheCasetoPrint_0104.executor": "Run",
     "Application.ColatzGuess_0108.executor": "Run",
@@ -69,6 +72,7 @@
     "Application.SumBetweenTwoIntegers_0105.executor": "Run",
     "Application.SumOfDivisors.executor": "Run",
     "Application.Watermelon_0102.executor": "Run",
+    "Application.YinYangPlus_0109.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
@@ -110,6 +114,7 @@
       <workItem from="1736251768493" duration="1897000" />
       <workItem from="1736308776758" duration="72000" />
       <workItem from="1736315993368" duration="3336000" />
+      <workItem from="1736420340483" duration="553000" />
     </task>
     <task id="LOCAL-00001" summary="create Repository">
       <option name="closed" value="true" />
@@ -327,7 +332,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736321014482</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="음양 더하기">
+      <option name="closed" value="true" />
+      <created>1736420560631</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1736420560631</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,7 +382,8 @@
     <MESSAGE value="서울에서 김서방 찾기" />
     <MESSAGE value="나누어 떨어지는 숫자 배열" />
     <MESSAGE value="콜라츠 추측" />
-    <option name="LAST_COMMIT_MESSAGE" value="콜라츠 추측" />
+    <MESSAGE value="음양 더하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="음양 더하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
