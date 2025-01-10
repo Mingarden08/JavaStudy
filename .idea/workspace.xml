@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="음양 더하기">
-      <change afterPath="$PROJECT_DIR$/src/Level_1/AddMissingMumbers_0109.java" afterDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="없는 숫자 더하기">
+      <change afterPath="$PROJECT_DIR$/src/Level_1/HideYourCellPhoneNumber_0110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level_1/RemoveSmallestNumber_0110.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +58,7 @@
     "Application.FindPandYinString_0105.executor": "Run",
     "Application.FindRemainderIs1_0105.executor": "Run",
     "Application.HarshadNumber_0107.executor": "Run",
+    "Application.HideYourCellPhoneNumber_0110.executor": "Run",
     "Application.IntegerDescendingOrder_0105.executor": "Run",
     "Application.MakeMaxValue_0103.executor": "Run",
     "Application.MakeTriangle_0103.executor": "Run",
@@ -65,6 +68,7 @@
     "Application.NumericStringsAndEnglish_0102.executor": "Run",
     "Application.PointLocation_0103.executor": "Run",
     "Application.PrimeSum.executor": "Run",
+    "Application.RemoveSmallestNumber_0110.executor": "Run",
     "Application.RemoveVowels_0105.executor": "Run",
     "Application.Spiral.executor": "Run",
     "Application.Spiral_0103.executor": "Run",
@@ -114,7 +118,9 @@
       <workItem from="1736251768493" duration="1897000" />
       <workItem from="1736308776758" duration="72000" />
       <workItem from="1736315993368" duration="3336000" />
-      <workItem from="1736420340483" duration="553000" />
+      <workItem from="1736420340483" duration="797000" />
+      <workItem from="1736467344486" duration="9000" />
+      <workItem from="1736511892794" duration="2454000" />
     </task>
     <task id="LOCAL-00001" summary="create Repository">
       <option name="closed" value="true" />
@@ -340,7 +346,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736420560631</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="없는 숫자 더하기">
+      <option name="closed" value="true" />
+      <created>1736421137128</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1736421137128</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,7 +372,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="create Repository" />
     <MESSAGE value="약수의 합" />
     <MESSAGE value="수박수박수박수박수박수?" />
     <MESSAGE value="숫자 문자열과 영단어" />
@@ -383,7 +396,8 @@
     <MESSAGE value="나누어 떨어지는 숫자 배열" />
     <MESSAGE value="콜라츠 추측" />
     <MESSAGE value="음양 더하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="음양 더하기" />
+    <MESSAGE value="없는 숫자 더하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="없는 숫자 더하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
