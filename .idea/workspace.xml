@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="제일 작은 수 제거하기">
-      <change afterPath="$PROJECT_DIR$/src/Level_1/DotProduct_0111.java" afterDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="내적">
+      <change afterPath="$PROJECT_DIR$/src/Level_1/GetMiddleLetter_0111.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,61 +37,62 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AddDigits_0104.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AddMissingMumbers_0109.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayofNumbersThatFallApart_0108.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ChangeTheCasetoPrint_0104.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ColatzGuess_0108.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CommonMultiple.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConvertStringtoInteger_0105.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CutArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DetermineIntegerSquareRoot_0107.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DontLikeEvenNumbers_0104.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fibonacci_0106.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindAverage_0104.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindKim_0107.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindPandYinString_0105.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindRemainderIs1_0105.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HarshadNumber_0107.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HideYourCellPhoneNumber_0110.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IntegerDescendingOrder_0105.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MakeMaxValue_0103.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MakeTriangle_0103.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaximumAndMinimum_0106.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberOfOrderedPairs_0103.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumbersSpacedApartbyX_0104.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumericStringsAndEnglish_0102.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PointLocation_0103.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveSmallestNumber_0110.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveVowels_0105.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Spiral.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Spiral_0103.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SquareNumber_0103.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumBetweenTwoIntegers_0105.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfDivisors.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Watermelon_0102.executor&quot;: &quot;Run&quot;,
-    &quot;Application.YinYangPlus_0109.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Programming/Java/hs1/project&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddDigits_0104.executor": "Run",
+    "Application.AddMissingMumbers_0109.executor": "Run",
+    "Application.ArrayofNumbersThatFallApart_0108.executor": "Run",
+    "Application.ChangeTheCasetoPrint_0104.executor": "Run",
+    "Application.ColatzGuess_0108.executor": "Run",
+    "Application.CommonMultiple.executor": "Run",
+    "Application.ConvertStringtoInteger_0105.executor": "Run",
+    "Application.CutArray.executor": "Run",
+    "Application.DetermineIntegerSquareRoot_0107.executor": "Run",
+    "Application.DontLikeEvenNumbers_0104.executor": "Run",
+    "Application.DotProduct_0111.executor": "Run",
+    "Application.EvenOdd.executor": "Run",
+    "Application.Fibonacci_0106.executor": "Run",
+    "Application.FindAverage_0104.executor": "Run",
+    "Application.FindKim_0107.executor": "Run",
+    "Application.FindPandYinString_0105.executor": "Run",
+    "Application.FindRemainderIs1_0105.executor": "Run",
+    "Application.HarshadNumber_0107.executor": "Run",
+    "Application.HideYourCellPhoneNumber_0110.executor": "Run",
+    "Application.IntegerDescendingOrder_0105.executor": "Run",
+    "Application.MakeMaxValue_0103.executor": "Run",
+    "Application.MakeTriangle_0103.executor": "Run",
+    "Application.MaximumAndMinimum_0106.executor": "Run",
+    "Application.NumberOfOrderedPairs_0103.executor": "Run",
+    "Application.NumbersSpacedApartbyX_0104.executor": "Run",
+    "Application.NumericStringsAndEnglish_0102.executor": "Run",
+    "Application.PointLocation_0103.executor": "Run",
+    "Application.PrimeSum.executor": "Run",
+    "Application.RemoveSmallestNumber_0110.executor": "Run",
+    "Application.RemoveVowels_0105.executor": "Run",
+    "Application.Spiral.executor": "Run",
+    "Application.Spiral_0103.executor": "Run",
+    "Application.SquareNumber_0103.executor": "Run",
+    "Application.SumBetweenTwoIntegers_0105.executor": "Run",
+    "Application.SumOfDivisors.executor": "Run",
+    "Application.Watermelon_0102.executor": "Run",
+    "Application.YinYangPlus_0109.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Programming/Java/hs1/project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -119,7 +120,7 @@
       <workItem from="1736420340483" duration="797000" />
       <workItem from="1736467344486" duration="9000" />
       <workItem from="1736511892794" duration="2529000" />
-      <workItem from="1736601191872" duration="302000" />
+      <workItem from="1736601191872" duration="621000" />
     </task>
     <task id="LOCAL-00001" summary="create Repository">
       <option name="closed" value="true" />
@@ -377,7 +378,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736601355518</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="내적">
+      <option name="closed" value="true" />
+      <created>1736601722719</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1736601722719</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -395,7 +404,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="소수 찾기" />
     <MESSAGE value="제곱근 판별" />
     <MESSAGE value="공배수 찾기, 점 위치" />
     <MESSAGE value="최댓값 만들기, 공배수, 삼각형 만들기" />
@@ -420,7 +428,8 @@
     <MESSAGE value="없는 숫자 가리기" />
     <MESSAGE value="핸드폰 번호 가리기" />
     <MESSAGE value="제일 작은 수 제거하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="제일 작은 수 제거하기" />
+    <MESSAGE value="내적" />
+    <option name="LAST_COMMIT_MESSAGE" value="내적" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
