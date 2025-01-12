@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="내적">
-      <change afterPath="$PROJECT_DIR$/src/Level_1/GetMiddleLetter_0111.java" afterDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="가운데 글자 가져오기">
+      <change afterPath="$PROJECT_DIR$/src/Level_1/ArrangeStringsInDescendingOrder_0112.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,7 @@
   "keyToString": {
     "Application.AddDigits_0104.executor": "Run",
     "Application.AddMissingMumbers_0109.executor": "Run",
+    "Application.ArrangeStringsInDescendingOrder_0112.executor": "Run",
     "Application.ArrayofNumbersThatFallApart_0108.executor": "Run",
     "Application.ChangeTheCasetoPrint_0104.executor": "Run",
     "Application.ColatzGuess_0108.executor": "Run",
@@ -56,6 +58,7 @@
     "Application.FindKim_0107.executor": "Run",
     "Application.FindPandYinString_0105.executor": "Run",
     "Application.FindRemainderIs1_0105.executor": "Run",
+    "Application.GetMiddleLetter_0111.executor": "Run",
     "Application.HarshadNumber_0107.executor": "Run",
     "Application.HideYourCellPhoneNumber_0110.executor": "Run",
     "Application.IntegerDescendingOrder_0105.executor": "Run",
@@ -121,6 +124,8 @@
       <workItem from="1736467344486" duration="9000" />
       <workItem from="1736511892794" duration="2529000" />
       <workItem from="1736601191872" duration="621000" />
+      <workItem from="1736601997299" duration="225000" />
+      <workItem from="1736664570669" duration="1628000" />
     </task>
     <task id="LOCAL-00001" summary="create Repository">
       <option name="closed" value="true" />
@@ -386,7 +391,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736601722719</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="가운데 글자 가져오기">
+      <option name="closed" value="true" />
+      <created>1736602214483</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1736602214483</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -404,7 +417,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="제곱근 판별" />
     <MESSAGE value="공배수 찾기, 점 위치" />
     <MESSAGE value="최댓값 만들기, 공배수, 삼각형 만들기" />
     <MESSAGE value="배열 자르기" />
@@ -429,7 +441,8 @@
     <MESSAGE value="핸드폰 번호 가리기" />
     <MESSAGE value="제일 작은 수 제거하기" />
     <MESSAGE value="내적" />
-    <option name="LAST_COMMIT_MESSAGE" value="내적" />
+    <MESSAGE value="가운데 글자 가져오기" />
+    <option name="LAST_COMMIT_MESSAGE" value="가운데 글자 가져오기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
