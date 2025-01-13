@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="가운데 글자 가져오기">
-      <change afterPath="$PROJECT_DIR$/src/Level_1/ArrangeStringsInDescendingOrder_0112.java" afterDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="문자열 내림차순으로 배치하기">
+      <change afterPath="$PROJECT_DIR$/src/Level_1/StringHandlingBasics_0113.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +75,7 @@
     "Application.Spiral.executor": "Run",
     "Application.Spiral_0103.executor": "Run",
     "Application.SquareNumber_0103.executor": "Run",
+    "Application.StringHandlingBasics_0113.executor": "Run",
     "Application.SumBetweenTwoIntegers_0105.executor": "Run",
     "Application.SumOfDivisors.executor": "Run",
     "Application.Watermelon_0102.executor": "Run",
@@ -125,7 +126,8 @@
       <workItem from="1736511892794" duration="2529000" />
       <workItem from="1736601191872" duration="621000" />
       <workItem from="1736601997299" duration="225000" />
-      <workItem from="1736664570669" duration="1628000" />
+      <workItem from="1736664570669" duration="1826000" />
+      <workItem from="1736766583504" duration="420000" />
     </task>
     <task id="LOCAL-00001" summary="create Repository">
       <option name="closed" value="true" />
@@ -399,7 +401,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736602214483</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="문자열 내림차순으로 배치하기">
+      <option name="closed" value="true" />
+      <created>1736666536171</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1736666536171</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -417,7 +427,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="공배수 찾기, 점 위치" />
     <MESSAGE value="최댓값 만들기, 공배수, 삼각형 만들기" />
     <MESSAGE value="배열 자르기" />
     <MESSAGE value="배열 자르기, 짝수는 싫어요" />
@@ -442,7 +451,8 @@
     <MESSAGE value="제일 작은 수 제거하기" />
     <MESSAGE value="내적" />
     <MESSAGE value="가운데 글자 가져오기" />
-    <option name="LAST_COMMIT_MESSAGE" value="가운데 글자 가져오기" />
+    <MESSAGE value="문자열 내림차순으로 배치하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="문자열 내림차순으로 배치하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
