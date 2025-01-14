@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="자연수 뒤집어 배열로 만들기">
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="정수 내림차순으로 배치하기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level_1/IntegerDescendingOrder_0105.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level_1/IntegerDescendingOrder_0105.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +129,7 @@
       <workItem from="1736664570669" duration="1826000" />
       <workItem from="1736766583504" duration="1225000" />
       <workItem from="1736823319633" duration="570000" />
-      <workItem from="1736852838845" duration="1029000" />
+      <workItem from="1736852838845" duration="1850000" />
     </task>
     <task id="LOCAL-00001" summary="create Repository">
       <option name="closed" value="true" />
@@ -428,7 +427,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736767796713</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="정수 내림차순으로 배치하기">
+      <option name="closed" value="true" />
+      <created>1736853920425</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1736853920425</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,7 +453,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="배열 자르기, 짝수는 싫어요" />
     <MESSAGE value="대소문자 바꿔서 출력하기" />
     <MESSAGE value="자릿수 더하기" />
     <MESSAGE value="짝수와 홀수, 평균 찾기" />
@@ -471,7 +477,8 @@
     <MESSAGE value="문자열 내림차순으로 배치하기" />
     <MESSAGE value="문자열 다루기 기본" />
     <MESSAGE value="자연수 뒤집어 배열로 만들기" />
-    <option name="LAST_COMMIT_MESSAGE" value="자연수 뒤집어 배열로 만들기" />
+    <MESSAGE value="정수 내림차순으로 배치하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="정수 내림차순으로 배치하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
