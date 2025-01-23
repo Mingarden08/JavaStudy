@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="문자 반복 출력하기" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="가위 바위 보">
+      <change afterPath="$PROJECT_DIR$/src/Level_0/MultipleofN_0123.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +70,7 @@
     "Application.MakeTriangle_0103.executor": "Run",
     "Application.MatrixAddition_0114.executor": "Run",
     "Application.MaximumAndMinimum_0106.executor": "Run",
+    "Application.MultipleofN_0123.executor": "Run",
     "Application.NumberOfDivisorsAndAddition_0114.executor": "Run",
     "Application.NumberOfOrderedPairs_0103.executor": "Run",
     "Application.NumbersSpacedApartbyX_0104.executor": "Run",
@@ -78,6 +82,7 @@
     "Application.RectangularStar_0115.executor": "Debug",
     "Application.RemoveSmallestNumber_0110.executor": "Run",
     "Application.RemoveVowels_0105.executor": "Run",
+    "Application.RockPaperScissors_0121.executor": "Run",
     "Application.SharingPizza3_0116.executor": "Run",
     "Application.SimilarityOfArrays_0116.executor": "Run",
     "Application.Spiral.executor": "Run",
@@ -146,6 +151,9 @@
       <workItem from="1737209456361" duration="640000" />
       <workItem from="1737264653592" duration="198000" />
       <workItem from="1737382190626" duration="240000" />
+      <workItem from="1737465409766" duration="284000" />
+      <workItem from="1737501402008" duration="12000" />
+      <workItem from="1737632406473" duration="719000" />
     </task>
     <task id="LOCAL-00001" summary="create Repository">
       <option name="closed" value="true" />
@@ -531,7 +539,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737382412196</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="가위 바위 보">
+      <option name="closed" value="true" />
+      <created>1737465686799</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1737465686799</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -549,7 +565,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="정수 제곱근 판별" />
     <MESSAGE value="하샤드 수" />
     <MESSAGE value="서울에서 김서방 찾기" />
     <MESSAGE value="나누어 떨어지는 숫자 배열" />
@@ -574,7 +589,8 @@
     <MESSAGE value="자릿수 더하기" />
     <MESSAGE value="직각삼각형 출력하기" />
     <MESSAGE value="문자 반복 출력하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="문자 반복 출력하기" />
+    <MESSAGE value="가위 바위 보" />
+    <option name="LAST_COMMIT_MESSAGE" value="가위 바위 보" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
