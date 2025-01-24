@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="가위 바위 보">
-      <change afterPath="$PROJECT_DIR$/src/Level_0/MultipleofN_0123.java" afterDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="n의 배수">
+      <change afterPath="$PROJECT_DIR$/src/Level_0/AdditionOfHiddenNumbers1_0124.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +43,7 @@
     "Application.AddDigits_0104.executor": "Run",
     "Application.AddDigits_0117.executor": "Run",
     "Application.AddMissingMumbers_0109.executor": "Run",
+    "Application.AdditionOfHiddenNumbers1_0124.executor": "Run",
     "Application.ArrangeStringsInDescendingOrder_0112.executor": "Run",
     "Application.ArrayofNumbersThatFallApart_0108.executor": "Run",
     "Application.CalculateYourShortfall_0114.executor": "Run",
@@ -153,15 +154,8 @@
       <workItem from="1737382190626" duration="240000" />
       <workItem from="1737465409766" duration="284000" />
       <workItem from="1737501402008" duration="12000" />
-      <workItem from="1737632406473" duration="719000" />
-    </task>
-    <task id="LOCAL-00001" summary="create Repository">
-      <option name="closed" value="true" />
-      <created>1735727975409</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1735727975409</updated>
+      <workItem from="1737632406473" duration="829000" />
+      <workItem from="1737719513082" duration="298000" />
     </task>
     <task id="LOCAL-00002" summary="create Repository">
       <option name="closed" value="true" />
@@ -547,7 +541,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737465686799</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="n의 배수">
+      <option name="closed" value="true" />
+      <created>1737633324330</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1737633324330</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,7 +567,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="하샤드 수" />
     <MESSAGE value="서울에서 김서방 찾기" />
     <MESSAGE value="나누어 떨어지는 숫자 배열" />
     <MESSAGE value="콜라츠 추측" />
@@ -590,7 +591,8 @@
     <MESSAGE value="직각삼각형 출력하기" />
     <MESSAGE value="문자 반복 출력하기" />
     <MESSAGE value="가위 바위 보" />
-    <option name="LAST_COMMIT_MESSAGE" value="가위 바위 보" />
+    <MESSAGE value="n의 배수" />
+    <option name="LAST_COMMIT_MESSAGE" value="n의 배수" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
