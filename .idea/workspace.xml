@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="문자열안에 문자열">
-      <change afterPath="$PROJECT_DIR$/src/Level_0/RemoveSpecificCharacters_0129.java" afterDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="특정 문자 제거하기">
+      <change afterPath="$PROJECT_DIR$/src/Level_0/SharingPizza1_0129.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,8 +84,10 @@
     "Application.PrintingRightTriangle_0118.executor": "Run",
     "Application.RectangularStar_0115.executor": "Debug",
     "Application.RemoveSmallestNumber_0110.executor": "Run",
+    "Application.RemoveSpecificCharacters_0129.executor": "Run",
     "Application.RemoveVowels_0105.executor": "Run",
     "Application.RockPaperScissors_0121.executor": "Run",
+    "Application.SharingPizza1_0129.executor": "Run",
     "Application.SharingPizza3_0116.executor": "Run",
     "Application.SimilarityOfArrays_0116.executor": "Run",
     "Application.Spiral.executor": "Run",
@@ -164,15 +167,7 @@
       <workItem from="1737856986032" duration="217000" />
       <workItem from="1737944238648" duration="377000" />
       <workItem from="1738068008019" duration="232000" />
-      <workItem from="1738133376519" duration="622000" />
-    </task>
-    <task id="LOCAL-00008" summary="제곱근 판별">
-      <option name="closed" value="true" />
-      <created>1735875387776</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1735875387776</updated>
+      <workItem from="1738133376519" duration="1574000" />
     </task>
     <task id="LOCAL-00009" summary="공배수 찾기, 점 위치">
       <option name="closed" value="true" />
@@ -558,7 +553,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738133963795</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="특정 문자 제거하기">
+      <option name="closed" value="true" />
+      <created>1738134336084</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1738134336084</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -576,7 +579,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="핸드폰 번호 가리기" />
     <MESSAGE value="제일 작은 수 제거하기" />
     <MESSAGE value="내적" />
     <MESSAGE value="가운데 글자 가져오기" />
@@ -601,7 +603,8 @@
     <MESSAGE value="문자열을 정수로 변환하기" />
     <MESSAGE value="문자열 곱하기" />
     <MESSAGE value="문자열안에 문자열" />
-    <option name="LAST_COMMIT_MESSAGE" value="문자열안에 문자열" />
+    <MESSAGE value="특정 문자 제거하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="특정 문자 제거하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
