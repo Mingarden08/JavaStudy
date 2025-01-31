@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="특정 문자 제거하기">
-      <change afterPath="$PROJECT_DIR$/src/Level_0/SharingPizza1_0129.java" afterDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="n의 배수 고르기">
+      <change afterPath="$PROJECT_DIR$/src/Level_0/FindingDivisors_0131.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
     "Application.ArrayofNumbersThatFallApart_0108.executor": "Run",
     "Application.CalculateYourShortfall_0114.executor": "Run",
     "Application.ChangeTheCasetoPrint_0104.executor": "Run",
+    "Application.ChooseAMultipleOfN_0130.executor": "Run",
     "Application.ColatzGuess_0108.executor": "Run",
     "Application.CommonMultiple.executor": "Run",
     "Application.ConvertStringToInteger_0127.executor": "Run",
@@ -64,6 +65,7 @@
     "Application.FindKim_0107.executor": "Run",
     "Application.FindPandYinString_0105.executor": "Run",
     "Application.FindRemainderIs1_0105.executor": "Run",
+    "Application.FindingDivisors_0131.executor": "Run",
     "Application.FlipNaturalNumbersIntoArray_0113.executor": "Run",
     "Application.GetMiddleLetter_0111.executor": "Run",
     "Application.HarshadNumber_0107.executor": "Run",
@@ -167,23 +169,9 @@
       <workItem from="1737856986032" duration="217000" />
       <workItem from="1737944238648" duration="377000" />
       <workItem from="1738068008019" duration="232000" />
-      <workItem from="1738133376519" duration="1574000" />
-    </task>
-    <task id="LOCAL-00009" summary="공배수 찾기, 점 위치">
-      <option name="closed" value="true" />
-      <created>1735876144015</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1735876144015</updated>
-    </task>
-    <task id="LOCAL-00010" summary="최댓값 만들기, 공배수, 삼각형 만들기">
-      <option name="closed" value="true" />
-      <created>1735877550266</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1735877550266</updated>
+      <workItem from="1738133376519" duration="1903000" />
+      <workItem from="1738218003815" duration="603000" />
+      <workItem from="1738244479386" duration="523000" />
     </task>
     <task id="LOCAL-00011" summary="배열 자르기">
       <option name="closed" value="true" />
@@ -561,7 +549,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738134336084</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="피자 나눠 먹기 (1)">
+      <option name="closed" value="true" />
+      <created>1738135222658</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1738135222658</updated>
+    </task>
+    <task id="LOCAL-00059" summary="n의 배수 고르기">
+      <option name="closed" value="true" />
+      <created>1738244938632</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1738244938632</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -579,8 +583,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="제일 작은 수 제거하기" />
-    <MESSAGE value="내적" />
     <MESSAGE value="가운데 글자 가져오기" />
     <MESSAGE value="문자열 내림차순으로 배치하기" />
     <MESSAGE value="문자열 다루기 기본" />
@@ -604,7 +606,9 @@
     <MESSAGE value="문자열 곱하기" />
     <MESSAGE value="문자열안에 문자열" />
     <MESSAGE value="특정 문자 제거하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="특정 문자 제거하기" />
+    <MESSAGE value="피자 나눠 먹기 (1)" />
+    <MESSAGE value="n의 배수 고르기" />
+    <option name="LAST_COMMIT_MESSAGE" value="n의 배수 고르기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
