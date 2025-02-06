@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="가장 큰 수 찾기">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/LambdaExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/LambdaExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/LambdaExample3.java" afterDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="람다식 공부">
       <change afterPath="$PROJECT_DIR$/src/Level_2/TrimN2Array_0205.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -196,14 +189,6 @@
       <workItem from="1738485833770" duration="312000" />
       <workItem from="1738579122268" duration="344000" />
       <workItem from="1738584947709" duration="739000" />
-    </task>
-    <task id="LOCAL-00014" summary="자릿수 더하기">
-      <option name="closed" value="true" />
-      <created>1735966268259</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1735966268259</updated>
     </task>
     <task id="LOCAL-00015" summary="짝수와 홀수, 평균 찾기">
       <option name="closed" value="true" />
@@ -589,7 +574,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738486088424</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="람다식 공부">
+      <option name="closed" value="true" />
+      <created>1738744273000</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1738744273001</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -600,14 +593,25 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="자연수 뒤집어 배열로 만들기" />
     <MESSAGE value="정수 내림차순으로 배치하기" />
     <MESSAGE value="부족한 금액 계산하기" />
     <MESSAGE value="행렬의 덧셈" />
@@ -632,7 +636,8 @@
     <MESSAGE value="약수 구하기" />
     <MESSAGE value="문자열 정수의 합" />
     <MESSAGE value="가장 큰 수 찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value="가장 큰 수 찾기" />
+    <MESSAGE value="람다식 공부" />
+    <option name="LAST_COMMIT_MESSAGE" value="람다식 공부" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
