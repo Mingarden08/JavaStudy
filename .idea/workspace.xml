@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="문자열 바꿔서 찾기">
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="가장 큰 수 찾기">
+      <change afterPath="$PROJECT_DIR$/src/Level_0/rny_string_0203.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +62,6 @@
     &quot;Application.EvenOdd.executor&quot;: &quot;Run&quot;,
     &quot;Application.Fibonacci_0106.executor&quot;: &quot;Run&quot;,
     &quot;Application.FindAverage_0104.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindByChangingString_0204.executor&quot;: &quot;Run&quot;,
     &quot;Application.FindKim_0107.executor&quot;: &quot;Run&quot;,
     &quot;Application.FindPandYinString_0105.executor&quot;: &quot;Run&quot;,
     &quot;Application.FindRemainderIs1_0105.executor&quot;: &quot;Run&quot;,
@@ -105,7 +105,6 @@
     &quot;Application.UppercaseAndLowercaseLetters_0125.executor&quot;: &quot;Run&quot;,
     &quot;Application.Watermelon_0102.executor&quot;: &quot;Run&quot;,
     &quot;Application.YinYangPlus_0109.executor&quot;: &quot;Run&quot;,
-    &quot;Application.rny_string_0203.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
@@ -180,10 +179,23 @@
       <workItem from="1738410591296" duration="339000" />
       <workItem from="1738485833770" duration="312000" />
       <workItem from="1738579122268" duration="344000" />
-      <workItem from="1738584947709" duration="1145000" />
-      <workItem from="1738648201202" duration="49000" />
-      <workItem from="1738675556978" duration="570000" />
-      <workItem from="1738752307805" duration="391000" />
+      <workItem from="1738584947709" duration="739000" />
+    </task>
+    <task id="LOCAL-00014" summary="자릿수 더하기">
+      <option name="closed" value="true" />
+      <created>1735966268259</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1735966268259</updated>
+    </task>
+    <task id="LOCAL-00015" summary="짝수와 홀수, 평균 찾기">
+      <option name="closed" value="true" />
+      <created>1735966662572</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1735966662572</updated>
     </task>
     <task id="LOCAL-00016" summary="x만큼 간격이 있는 n개의 숫자">
       <option name="closed" value="true" />
@@ -561,23 +573,7 @@
       <option name="project" value="LOCAL" />
       <updated>1738486088424</updated>
     </task>
-    <task id="LOCAL-00063" summary="rny_string">
-      <option name="closed" value="true" />
-      <created>1738586082769</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1738586082769</updated>
-    </task>
-    <task id="LOCAL-00064" summary="문자열 바꿔서 찾기">
-      <option name="closed" value="true" />
-      <created>1738676119190</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1738676119191</updated>
-    </task>
-    <option name="localTasksCounter" value="65" />
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -595,6 +591,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="자연수 뒤집어 배열로 만들기" />
+    <MESSAGE value="정수 내림차순으로 배치하기" />
     <MESSAGE value="부족한 금액 계산하기" />
     <MESSAGE value="행렬의 덧셈" />
     <MESSAGE value="약수의 개수와 덧셈" />
@@ -618,9 +616,7 @@
     <MESSAGE value="약수 구하기" />
     <MESSAGE value="문자열 정수의 합" />
     <MESSAGE value="가장 큰 수 찾기" />
-    <MESSAGE value="rny_string" />
-    <MESSAGE value="문자열 바꿔서 찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value="문자열 바꿔서 찾기" />
+    <option name="LAST_COMMIT_MESSAGE" value="가장 큰 수 찾기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
