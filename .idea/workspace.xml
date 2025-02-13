@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="옷가게 할인 받기">
-      <change afterPath="$PROJECT_DIR$/src/Level_0/AntArmy_0212.java" afterDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="개미군단">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,14 +183,6 @@
       <workItem from="1738485833770" duration="312000" />
       <workItem from="1738579122268" duration="344000" />
       <workItem from="1738584947709" duration="739000" />
-    </task>
-    <task id="LOCAL-00016" summary="x만큼 간격이 있는 n개의 숫자">
-      <option name="closed" value="true" />
-      <created>1735967862621</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1735967862621</updated>
     </task>
     <task id="LOCAL-00017" summary="문자열 내 p와 y의 개수, 두 정수 사이의 합, 문자열을 정수로 바꾸기, 나머지가 1이 되는 수 찾기">
       <option name="closed" value="true" />
@@ -577,7 +568,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739283728173</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="개미군단">
+      <option name="closed" value="true" />
+      <created>1739366035188</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1739366035189</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -595,7 +594,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="정수 내림차순으로 배치하기" />
     <MESSAGE value="부족한 금액 계산하기" />
     <MESSAGE value="행렬의 덧셈" />
     <MESSAGE value="약수의 개수와 덧셈" />
@@ -620,7 +618,8 @@
     <MESSAGE value="문자열 정수의 합" />
     <MESSAGE value="가장 큰 수 찾기" />
     <MESSAGE value="옷가게 할인 받기" />
-    <option name="LAST_COMMIT_MESSAGE" value="옷가게 할인 받기" />
+    <MESSAGE value="개미군단" />
+    <option name="LAST_COMMIT_MESSAGE" value="개미군단" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
