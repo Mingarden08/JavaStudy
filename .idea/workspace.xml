@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/Level_0/ComparingArrays_0223.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025-02-15__11_36__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025-02-15_오후_11_36_[Changes]/shelved.patch" beforeDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="배열 비교하기">
+      <change afterPath="$PROJECT_DIR$/src/Level_0/FindTheDesiredString_0224.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +69,7 @@
     "Application.FindKim_0107.executor": "Run",
     "Application.FindPandYinString_0105.executor": "Run",
     "Application.FindRemainderIs1_0105.executor": "Run",
+    "Application.FindTheDesiredString_0224.executor": "Run",
     "Application.FindTheLargestNumber_0202.executor": "Run",
     "Application.FindingDivisors_0131.executor": "Run",
     "Application.FlipNaturalNumbersIntoArray_0113.executor": "Run",
@@ -194,14 +193,7 @@
       <workItem from="1739705618022" duration="281000" />
       <workItem from="1739790359629" duration="9000" />
       <workItem from="1739802857465" duration="332000" />
-    </task>
-    <task id="LOCAL-00020" summary="오늘은 여기까지!!">
-      <option name="closed" value="true" />
-      <created>1736082371366</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1736082371366</updated>
+      <workItem from="1740404604981" duration="279000" />
     </task>
     <task id="LOCAL-00021" summary="최댓값과 최솟값">
       <option name="closed" value="true" />
@@ -587,7 +579,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740184239312</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="배열 비교하기">
+      <option name="closed" value="true" />
+      <created>1740314056977</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1740314056977</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -605,7 +605,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="직사각형 별찍기" />
     <MESSAGE value="배열의 유사도" />
     <MESSAGE value="피자 나눠 먹기3" />
     <MESSAGE value="자릿수 더하기" />
@@ -630,7 +629,8 @@
     <MESSAGE value="A 강조하기" />
     <MESSAGE value="대문자로 바꾸기" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="배열 비교하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="배열 비교하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
