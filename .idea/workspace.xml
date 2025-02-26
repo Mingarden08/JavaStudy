@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="원하는 문자열 찾기">
-      <change afterPath="$PROJECT_DIR$/src/Level_0/ConvertingStringCaseInAnArray_0225.java" afterDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="배열에서 문자열 대소문자 변환하기">
+      <change afterPath="$PROJECT_DIR$/src/Level_0/ElementsAtNIntervals_0226.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025-02-18__11_51__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025-02-18_오후_11_51_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +66,7 @@
     "Application.DistinguishBetweenOddAndEven_0120.executor": "Run",
     "Application.DontLikeEvenNumbers_0104.executor": "Run",
     "Application.DotProduct_0111.executor": "Run",
+    "Application.ElementsAtNIntervals_0226.executor": "Run",
     "Application.EvenOdd.executor": "Run",
     "Application.Fibonacci_0106.executor": "Run",
     "Application.FindAverage_0104.executor": "Run",
@@ -197,14 +200,9 @@
       <workItem from="1740404604981" duration="550000" />
       <workItem from="1740482970295" duration="53000" />
       <workItem from="1740488023821" duration="315000" />
-    </task>
-    <task id="LOCAL-00022" summary="피보나치 수열">
-      <option name="closed" value="true" />
-      <created>1736143223281</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1736143223281</updated>
+      <workItem from="1740488350706" duration="65000" />
+      <workItem from="1740568512005" duration="34000" />
+      <workItem from="1740578528006" duration="402000" />
     </task>
     <task id="LOCAL-00023" summary="정수 제곱근 판별">
       <option name="closed" value="true" />
@@ -590,7 +588,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740405142247</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="배열에서 문자열 대소문자 변환하기">
+      <option name="closed" value="true" />
+      <created>1740488391150</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1740488391150</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -608,7 +614,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="피자 나눠 먹기3" />
     <MESSAGE value="자릿수 더하기" />
     <MESSAGE value="직각삼각형 출력하기" />
     <MESSAGE value="문자 반복 출력하기" />
@@ -633,7 +638,8 @@
     <MESSAGE value="." />
     <MESSAGE value="배열 비교하기" />
     <MESSAGE value="원하는 문자열 찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value="원하는 문자열 찾기" />
+    <MESSAGE value="배열에서 문자열 대소문자 변환하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="배열에서 문자열 대소문자 변환하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
