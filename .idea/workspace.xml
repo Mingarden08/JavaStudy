@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/Level_0/ToDoList_0228.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="할 일 목록" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -204,15 +201,7 @@
       <workItem from="1740578528006" duration="478000" />
       <workItem from="1740621982685" duration="18000" />
       <workItem from="1740667168174" duration="39000" />
-      <workItem from="1740698435117" duration="637000" />
-    </task>
-    <task id="LOCAL-00025" summary="서울에서 김서방 찾기">
-      <option name="closed" value="true" />
-      <created>1736260771698</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1736260771698</updated>
+      <workItem from="1740698435117" duration="739000" />
     </task>
     <task id="LOCAL-00026" summary="나누어 떨어지는 숫자 배열">
       <option name="closed" value="true" />
@@ -598,7 +587,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740667179614</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="할 일 목록">
+      <option name="closed" value="true" />
+      <created>1740699157129</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1740699157130</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -616,7 +613,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="직각삼각형 출력하기" />
     <MESSAGE value="문자 반복 출력하기" />
     <MESSAGE value="가위 바위 보" />
     <MESSAGE value="n의 배수" />
@@ -641,7 +637,8 @@
     <MESSAGE value="배열에서 문자열 대소문자 변환하기" />
     <MESSAGE value="n개 간격의 원소들" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="할 일 목록" />
+    <option name="LAST_COMMIT_MESSAGE" value="할 일 목록" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
