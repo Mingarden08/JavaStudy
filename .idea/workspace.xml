@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="할 일 목록" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="카운트 다운">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +58,7 @@
     "Application.ConvertStringtoInteger_0105.executor": "Run",
     "Application.ConvertToString_0126.executor": "Run",
     "Application.ConvertingStringCaseInAnArray_0225.executor": "Run",
+    "Application.Countdown_0301.executor": "Run",
     "Application.CutArray.executor": "Run",
     "Application.DetermineIntegerSquareRoot_0107.executor": "Run",
     "Application.DistinguishBetweenOddAndEven_0120.executor": "Run",
@@ -202,14 +205,7 @@
       <workItem from="1740621982685" duration="18000" />
       <workItem from="1740667168174" duration="39000" />
       <workItem from="1740698435117" duration="739000" />
-    </task>
-    <task id="LOCAL-00026" summary="나누어 떨어지는 숫자 배열">
-      <option name="closed" value="true" />
-      <created>1736319409519</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1736319409519</updated>
+      <workItem from="1740834745323" duration="426000" />
     </task>
     <task id="LOCAL-00027" summary="콜라츠 추측">
       <option name="closed" value="true" />
@@ -595,7 +591,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740699157130</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="카운트 다운">
+      <option name="closed" value="true" />
+      <created>1740835056961</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1740835056961</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -613,7 +617,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="문자 반복 출력하기" />
     <MESSAGE value="가위 바위 보" />
     <MESSAGE value="n의 배수" />
     <MESSAGE value="숨어있는 숫자의 덧셈 (1)" />
@@ -638,7 +641,8 @@
     <MESSAGE value="n개 간격의 원소들" />
     <MESSAGE value="." />
     <MESSAGE value="할 일 목록" />
-    <option name="LAST_COMMIT_MESSAGE" value="할 일 목록" />
+    <MESSAGE value="카운트 다운" />
+    <option name="LAST_COMMIT_MESSAGE" value="카운트 다운" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

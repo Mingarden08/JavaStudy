@@ -11,5 +11,6 @@ public class Countdown_0301 {
             answer[i] = start_num--;
         }
         System.out.println(Arrays.toString(answer));
+
     }
 }
