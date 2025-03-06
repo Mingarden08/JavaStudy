@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="첫 번째로 나오는 음수">
-      <change afterPath="$PROJECT_DIR$/src/Level_0/CreateAStringByConcatenatingLetters_0305.java" afterDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="글자 이어 붙여 문자열 만들기">
+      <change afterPath="$PROJECT_DIR$/src/Level_0/NCharactersAtTheEndOfAString_0306.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +87,7 @@
     "Application.MatrixAddition_0114.executor": "Run",
     "Application.MaximumAndMinimum_0106.executor": "Run",
     "Application.MultipleofN_0123.executor": "Run",
+    "Application.NCharactersAtTheEndOfAString_0306.executor": "Run",
     "Application.NumberOfDivisorsAndAddition_0114.executor": "Run",
     "Application.NumberOfOrderedPairs_0103.executor": "Run",
     "Application.NumbersSpacedApartbyX_0104.executor": "Run",
@@ -211,15 +212,8 @@
       <workItem from="1740834745323" duration="462000" />
       <workItem from="1741005869937" duration="1162000" />
       <workItem from="1741049908029" duration="16000" />
-      <workItem from="1741182259476" duration="318000" />
-    </task>
-    <task id="LOCAL-00029" summary="없는 숫자 더하기">
-      <option name="closed" value="true" />
-      <created>1736421137128</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1736421137128</updated>
+      <workItem from="1741182259476" duration="376000" />
+      <workItem from="1741271811707" duration="278000" />
     </task>
     <task id="LOCAL-00030" summary="없는 숫자 가리기">
       <option name="closed" value="true" />
@@ -605,7 +599,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741007277593</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="글자 이어 붙여 문자열 만들기">
+      <option name="closed" value="true" />
+      <created>1741182615915</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1741182615915</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -623,7 +625,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="n의 배수" />
     <MESSAGE value="숨어있는 숫자의 덧셈 (1)" />
     <MESSAGE value="대문자와 소문자" />
     <MESSAGE value="문자열로 변환" />
@@ -648,7 +649,8 @@
     <MESSAGE value="할 일 목록" />
     <MESSAGE value="카운트 다운" />
     <MESSAGE value="첫 번째로 나오는 음수" />
-    <option name="LAST_COMMIT_MESSAGE" value="첫 번째로 나오는 음수" />
+    <MESSAGE value="글자 이어 붙여 문자열 만들기" />
+    <option name="LAST_COMMIT_MESSAGE" value="글자 이어 붙여 문자열 만들기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
