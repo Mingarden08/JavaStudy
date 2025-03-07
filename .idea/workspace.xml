@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="글자 이어 붙여 문자열 만들기">
-      <change afterPath="$PROJECT_DIR$/src/Level_0/NCharactersAtTheEndOfAString_0306.java" afterDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="문자열의 뒤의 n글자">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,103 +37,103 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AToEmphasize_0216.executor": "Run",
-    "Application.AddDigits_0104.executor": "Run",
-    "Application.AddDigits_0117.executor": "Run",
-    "Application.AddMissingMumbers_0109.executor": "Run",
-    "Application.AdditionOfHiddenNumbers1_0124.executor": "Run",
-    "Application.ArrangeStringsInDescendingOrder_0112.executor": "Run",
-    "Application.ArrayofNumbersThatFallApart_0108.executor": "Run",
-    "Application.CalculateYourShortfall_0114.executor": "Run",
-    "Application.ChangeSpecificCharactersToUppercase_0215.executor": "Run",
-    "Application.ChangeTheCasetoPrint_0104.executor": "Run",
-    "Application.ChangeToUppercase_0217.executor": "Run",
-    "Application.ChooseAMultipleOfN_0130.executor": "Run",
-    "Application.ColatzGuess_0108.executor": "Run",
-    "Application.CommonMultiple.executor": "Run",
-    "Application.ComparingArrays_0223.executor": "Run",
-    "Application.ConvertStringToInteger_0127.executor": "Run",
-    "Application.ConvertStringtoInteger_0105.executor": "Run",
-    "Application.ConvertToString_0126.executor": "Run",
-    "Application.ConvertingStringCaseInAnArray_0225.executor": "Run",
-    "Application.Countdown_0301.executor": "Run",
-    "Application.CreateAStringByConcatenatingLetters_0305.executor": "Run",
-    "Application.CutArray.executor": "Run",
-    "Application.DetermineIntegerSquareRoot_0107.executor": "Run",
-    "Application.DistinguishBetweenOddAndEven_0120.executor": "Run",
-    "Application.DontLikeEvenNumbers_0104.executor": "Run",
-    "Application.DotProduct_0111.executor": "Run",
-    "Application.ElementsAtNIntervals_0226.executor": "Run",
-    "Application.EvenOdd.executor": "Run",
-    "Application.Fibonacci_0106.executor": "Run",
-    "Application.FindAverage_0104.executor": "Run",
-    "Application.FindKim_0107.executor": "Run",
-    "Application.FindPandYinString_0105.executor": "Run",
-    "Application.FindRemainderIs1_0105.executor": "Run",
-    "Application.FindTheDesiredString_0224.executor": "Run",
-    "Application.FindTheLargestNumber_0202.executor": "Run",
-    "Application.FindingDivisors_0131.executor": "Run",
-    "Application.FlipNaturalNumbersIntoArray_0113.executor": "Run",
-    "Application.FromTheBackToTheTop5_0210.executor": "Run",
-    "Application.GetMiddleLetter_0111.executor": "Run",
-    "Application.HarshadNumber_0107.executor": "Run",
-    "Application.HideYourCellPhoneNumber_0110.executor": "Run",
-    "Application.IntegerDescendingOrder_0105.executor": "Run",
-    "Application.MakeMaxValue_0103.executor": "Run",
-    "Application.MakeTriangle_0103.executor": "Run",
-    "Application.MatrixAddition_0114.executor": "Run",
-    "Application.MaximumAndMinimum_0106.executor": "Run",
-    "Application.MultipleofN_0123.executor": "Run",
-    "Application.NCharactersAtTheEndOfAString_0306.executor": "Run",
-    "Application.NumberOfDivisorsAndAddition_0114.executor": "Run",
-    "Application.NumberOfOrderedPairs_0103.executor": "Run",
-    "Application.NumbersSpacedApartbyX_0104.executor": "Run",
-    "Application.NumericStringsAndEnglish_0102.executor": "Run",
-    "Application.PointLocation_0103.executor": "Run",
-    "Application.PrimeSum.executor": "Run",
-    "Application.PrintingRepeatedCharacters_0118.executor": "Run",
-    "Application.PrintingRightTriangle_0118.executor": "Run",
-    "Application.RectangularStar_0115.executor": "Debug",
-    "Application.RemoveSmallestNumber_0110.executor": "Run",
-    "Application.RemoveSpecificCharacters_0129.executor": "Run",
-    "Application.RemoveVowels_0105.executor": "Run",
-    "Application.RockPaperScissors_0121.executor": "Run",
-    "Application.SharingPizza1_0129.executor": "Run",
-    "Application.SharingPizza3_0116.executor": "Run",
-    "Application.SimilarityOfArrays_0116.executor": "Run",
-    "Application.Spiral.executor": "Run",
-    "Application.Spiral_0103.executor": "Run",
-    "Application.SquareNumber_0103.executor": "Run",
-    "Application.StringHandlingBasics_0113.executor": "Run",
-    "Application.StringMultiplication_0128.executor": "Run",
-    "Application.StringWithinString_0129.executor": "Run",
-    "Application.SumBetweenTwoIntegers_0105.executor": "Run",
-    "Application.SumOfDivisors.executor": "Run",
-    "Application.SumOfStringIntegers_0201.executor": "Run",
-    "Application.TheFirstNegativeNumber_0303.executor": "Run",
-    "Application.ToDoList_0228.executor": "Run",
-    "Application.UppercaseAndLowercaseLetters_0125.executor": "Run",
-    "Application.Watermelon_0102.executor": "Run",
-    "Application.YinYangPlus_0109.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Programming/Java/hs1/project",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AToEmphasize_0216.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AddDigits_0104.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AddDigits_0117.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AddMissingMumbers_0109.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AdditionOfHiddenNumbers1_0124.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrangeStringsInDescendingOrder_0112.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayofNumbersThatFallApart_0108.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculateYourShortfall_0114.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChangeSpecificCharactersToUppercase_0215.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChangeTheCasetoPrint_0104.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChangeToUppercase_0217.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChooseAMultipleOfN_0130.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ColatzGuess_0108.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CommonMultiple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComparingArrays_0223.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertStringToInteger_0127.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertStringtoInteger_0105.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertToString_0126.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertingStringCaseInAnArray_0225.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Countdown_0301.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CreateAStringByConcatenatingLetters_0305.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CutArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DetermineIntegerSquareRoot_0107.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DistinguishBetweenOddAndEven_0120.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DontLikeEvenNumbers_0104.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DotProduct_0111.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ElementsAtNIntervals_0226.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci_0106.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindAverage_0104.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindKim_0107.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindPandYinString_0105.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindRemainderIs1_0105.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindTheDesiredString_0224.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindTheLargestNumber_0202.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindingDivisors_0131.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlipNaturalNumbersIntoArray_0113.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FromTheBackToTheTop5_0210.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GetMiddleLetter_0111.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HarshadNumber_0107.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HideYourCellPhoneNumber_0110.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntegerDescendingOrder_0105.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MakeMaxValue_0103.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MakeTriangle_0103.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatrixAddition_0114.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumAndMinimum_0106.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultipleofN_0123.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NCharactersAtTheEndOfAString_0306.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOfDivisorsAndAddition_0114.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOfOrderedPairs_0103.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumbersSpacedApartbyX_0104.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumericStringsAndEnglish_0102.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PointLocation_0103.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintingRepeatedCharacters_0118.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintingRightTriangle_0118.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RectangularStar_0115.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.RemoveSmallestNumber_0110.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveSpecificCharacters_0129.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveVowels_0105.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RockPaperScissors_0121.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SharingPizza1_0129.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SharingPizza3_0116.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimilarityOfArrays_0116.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Spiral.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Spiral_0103.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SquareNumber_0103.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringHandlingBasics_0113.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringMultiplication_0128.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringWithinString_0129.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumBetweenTwoIntegers_0105.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfDivisors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfStringIntegers_0201.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TheFirstNegativeNumber_0303.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ToDoList_0228.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UppercaseAndLowercaseLetters_0125.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Watermelon_0102.executor&quot;: &quot;Run&quot;,
+    &quot;Application.YinYangPlus_0109.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Programming/Java/hs1/project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -214,14 +213,9 @@
       <workItem from="1741049908029" duration="16000" />
       <workItem from="1741182259476" duration="376000" />
       <workItem from="1741271811707" duration="278000" />
-    </task>
-    <task id="LOCAL-00030" summary="없는 숫자 가리기">
-      <option name="closed" value="true" />
-      <created>1736514395250</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1736514395251</updated>
+      <workItem from="1741272102836" duration="92000" />
+      <workItem from="1741304834247" duration="108000" />
+      <workItem from="1741306989750" duration="23000" />
     </task>
     <task id="LOCAL-00031" summary="핸드폰 번호 가리기">
       <option name="closed" value="true" />
@@ -607,7 +601,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741182615915</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="문자열의 뒤의 n글자">
+      <option name="closed" value="true" />
+      <created>1741272167630</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1741272167631</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -625,7 +627,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="숨어있는 숫자의 덧셈 (1)" />
     <MESSAGE value="대문자와 소문자" />
     <MESSAGE value="문자열로 변환" />
     <MESSAGE value="문자열을 정수로 변환하기" />
@@ -650,7 +651,8 @@
     <MESSAGE value="카운트 다운" />
     <MESSAGE value="첫 번째로 나오는 음수" />
     <MESSAGE value="글자 이어 붙여 문자열 만들기" />
-    <option name="LAST_COMMIT_MESSAGE" value="글자 이어 붙여 문자열 만들기" />
+    <MESSAGE value="문자열의 뒤의 n글자" />
+    <option name="LAST_COMMIT_MESSAGE" value="문자열의 뒤의 n글자" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
