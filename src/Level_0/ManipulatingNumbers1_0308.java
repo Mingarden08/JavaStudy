@@ -13,5 +13,6 @@ public class ManipulatingNumbers1_0308 {
             }
         }
         System.out.println(n);
+
     }
 }
