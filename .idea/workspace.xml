@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="가까운 1 찾기">
-      <change afterPath="$PROJECT_DIR$/src/Level_0/MakeWithl_0311.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="l로 만들기" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -227,15 +224,7 @@
       <workItem from="1741689503759" duration="6000" />
       <workItem from="1741689562232" duration="21000" />
       <workItem from="1741694220791" duration="10000" />
-      <workItem from="1741703311397" duration="307000" />
-    </task>
-    <task id="LOCAL-00035" summary="문자열 내림차순으로 배치하기">
-      <option name="closed" value="true" />
-      <created>1736666536171</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1736666536171</updated>
+      <workItem from="1741703311397" duration="990000" />
     </task>
     <task id="LOCAL-00036" summary="문자열 다루기 기본">
       <option name="closed" value="true" />
@@ -621,7 +610,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741612242711</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="l로 만들기">
+      <option name="closed" value="true" />
+      <created>1741703997038</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1741703997040</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -639,7 +636,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="문자열 곱하기" />
     <MESSAGE value="문자열안에 문자열" />
     <MESSAGE value="특정 문자 제거하기" />
     <MESSAGE value="피자 나눠 먹기 (1)" />
@@ -664,7 +660,8 @@
     <MESSAGE value="v문자 리스트를 문자열로 변환하기" />
     <MESSAGE value="수 조작하기 1" />
     <MESSAGE value="가까운 1 찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value="가까운 1 찾기" />
+    <MESSAGE value="l로 만들기" />
+    <option name="LAST_COMMIT_MESSAGE" value="l로 만들기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -708,11 +705,6 @@
           <url>file://$PROJECT_DIR$/src/Level_1/NumericStringsAndEnglish_0102.java</url>
           <line>42</line>
           <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Level_0/MakeWithl_0311.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
