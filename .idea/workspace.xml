@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="l로 만들기">
-      <change afterPath="$PROJECT_DIR$/src/Level_0/Decryption_0313.java" afterDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="암호 해독">
+      <change afterPath="$PROJECT_DIR$/src/Level_0/DiceGame1_0314.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,7 @@
     &quot;Application.Countdown_0301.executor&quot;: &quot;Run&quot;,
     &quot;Application.CreateAStringByConcatenatingLetters_0305.executor&quot;: &quot;Run&quot;,
     &quot;Application.CutArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Decryption_0313.executor&quot;: &quot;Run&quot;,
     &quot;Application.DetermineIntegerSquareRoot_0107.executor&quot;: &quot;Run&quot;,
     &quot;Application.DistinguishBetweenOddAndEven_0120.executor&quot;: &quot;Run&quot;,
     &quot;Application.DontLikeEvenNumbers_0104.executor&quot;: &quot;Run&quot;,
@@ -126,7 +127,7 @@
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Programming/Java/hs1/project&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Programming/Kotlin/studyKotlin&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -229,15 +230,9 @@
       <workItem from="1741694220791" duration="10000" />
       <workItem from="1741703311397" duration="990000" />
       <workItem from="1741785955323" duration="240000" />
-      <workItem from="1741874655561" duration="303000" />
-    </task>
-    <task id="LOCAL-00037" summary="자연수 뒤집어 배열로 만들기">
-      <option name="closed" value="true" />
-      <created>1736767796713</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1736767796713</updated>
+      <workItem from="1741874655561" duration="437000" />
+      <workItem from="1741875290887" duration="29000" />
+      <workItem from="1741960935310" duration="676000" />
     </task>
     <task id="LOCAL-00038" summary="정수 내림차순으로 배치하기">
       <option name="closed" value="true" />
@@ -623,7 +618,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741785979070</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="암호 해독">
+      <option name="closed" value="true" />
+      <created>1741875070183</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1741875070184</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -641,7 +644,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="문자열안에 문자열" />
     <MESSAGE value="특정 문자 제거하기" />
     <MESSAGE value="피자 나눠 먹기 (1)" />
     <MESSAGE value="n의 배수 고르기" />
@@ -666,7 +668,8 @@
     <MESSAGE value="수 조작하기 1" />
     <MESSAGE value="가까운 1 찾기" />
     <MESSAGE value="l로 만들기" />
-    <option name="LAST_COMMIT_MESSAGE" value="l로 만들기" />
+    <MESSAGE value="암호 해독" />
+    <option name="LAST_COMMIT_MESSAGE" value="암호 해독" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
