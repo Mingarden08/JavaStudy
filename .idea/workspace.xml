@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="암호 해독">
-      <change afterPath="$PROJECT_DIR$/src/Level_0/DiceGame1_0314.java" afterDir="false" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="주사위 게임 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +63,7 @@
     &quot;Application.CutArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.Decryption_0313.executor&quot;: &quot;Run&quot;,
     &quot;Application.DetermineIntegerSquareRoot_0107.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiceGame1_0314.executor&quot;: &quot;Run&quot;,
     &quot;Application.DistinguishBetweenOddAndEven_0120.executor&quot;: &quot;Run&quot;,
     &quot;Application.DontLikeEvenNumbers_0104.executor&quot;: &quot;Run&quot;,
     &quot;Application.DotProduct_0111.executor&quot;: &quot;Run&quot;,
@@ -232,15 +232,8 @@
       <workItem from="1741785955323" duration="240000" />
       <workItem from="1741874655561" duration="437000" />
       <workItem from="1741875290887" duration="29000" />
-      <workItem from="1741960935310" duration="676000" />
-    </task>
-    <task id="LOCAL-00038" summary="정수 내림차순으로 배치하기">
-      <option name="closed" value="true" />
-      <created>1736853920425</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1736853920425</updated>
+      <workItem from="1741960935310" duration="1002000" />
+      <workItem from="1742040994847" duration="309000" />
     </task>
     <task id="LOCAL-00039" summary="부족한 금액 계산하기">
       <option name="closed" value="true" />
@@ -626,7 +619,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741875070184</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="주사위 게임 1">
+      <option name="closed" value="true" />
+      <created>1741961924147</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1741961924148</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -644,7 +645,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="특정 문자 제거하기" />
     <MESSAGE value="피자 나눠 먹기 (1)" />
     <MESSAGE value="n의 배수 고르기" />
     <MESSAGE value="약수 구하기" />
@@ -669,7 +669,8 @@
     <MESSAGE value="가까운 1 찾기" />
     <MESSAGE value="l로 만들기" />
     <MESSAGE value="암호 해독" />
-    <option name="LAST_COMMIT_MESSAGE" value="암호 해독" />
+    <MESSAGE value="주사위 게임 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="주사위 게임 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
