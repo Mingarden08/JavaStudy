@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="주사위 게임 1" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="덧셈식 출력하기">
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,6 +98,7 @@
     &quot;Application.NumericStringsAndEnglish_0102.executor&quot;: &quot;Run&quot;,
     &quot;Application.PointLocation_0103.executor&quot;: &quot;Run&quot;,
     &quot;Application.PrimeSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintAdditionFormula_0316.executor&quot;: &quot;Run&quot;,
     &quot;Application.PrintingRepeatedCharacters_0118.executor&quot;: &quot;Run&quot;,
     &quot;Application.PrintingRightTriangle_0118.executor&quot;: &quot;Run&quot;,
     &quot;Application.RectangularStar_0115.executor&quot;: &quot;Debug&quot;,
@@ -120,6 +124,7 @@
     &quot;Application.Watermelon_0102.executor&quot;: &quot;Run&quot;,
     &quot;Application.YinYangPlus_0109.executor&quot;: &quot;Run&quot;,
     &quot;Application.temp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
@@ -232,14 +237,11 @@
       <workItem from="1741875290887" duration="29000" />
       <workItem from="1741960935310" duration="1002000" />
       <workItem from="1742040994847" duration="434000" />
-    </task>
-    <task id="LOCAL-00040" summary="행렬의 덧셈">
-      <option name="closed" value="true" />
-      <created>1736856689764</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1736856689764</updated>
+      <workItem from="1742132646264" duration="300000" />
+      <workItem from="1742170415313" duration="509000" />
+      <workItem from="1742186452927" duration="18000" />
+      <workItem from="1742186682340" duration="2000" />
+      <workItem from="1742215731264" duration="367000" />
     </task>
     <task id="LOCAL-00041" summary="약수의 개수와 덧셈">
       <option name="closed" value="true" />
@@ -625,7 +627,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742041418054</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="덧셈식 출력하기">
+      <option name="closed" value="true" />
+      <created>1742132820600</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1742132820601</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -643,7 +653,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="피자 나눠 먹기 (1)" />
     <MESSAGE value="n의 배수 고르기" />
     <MESSAGE value="약수 구하기" />
     <MESSAGE value="문자열 정수의 합" />
@@ -668,7 +677,8 @@
     <MESSAGE value="l로 만들기" />
     <MESSAGE value="암호 해독" />
     <MESSAGE value="주사위 게임 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="주사위 게임 1" />
+    <MESSAGE value="덧셈식 출력하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="덧셈식 출력하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -712,6 +722,11 @@
           <url>file://$PROJECT_DIR$/src/Level_1/NumericStringsAndEnglish_0102.java</url>
           <line>42</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
