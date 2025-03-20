@@ -9,5 +9,6 @@ public class AdditionOfHiddenNumbers1_0124 {
                 answer += ((int)my_string.charAt(i)) - 48;
         }
         System.out.println(answer);
+
     }
 }
