@@ -15,5 +15,8 @@ public class ChangeOrder_0324 {
             answer[cnt++] = num_list[i];
         }
         System.out.println(Arrays.toString(answer));
+
+
+
     }
 }
