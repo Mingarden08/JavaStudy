@@ -12,6 +12,8 @@ public class FindNumbers_0323 {
                 break;
             }
         }
+
+
         System.out.println(answer);
     }
 }

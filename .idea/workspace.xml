@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="순서 바꾸기">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="순서 바꾸기" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -258,14 +256,7 @@
       <workItem from="1742733283697" duration="667000" />
       <workItem from="1742821010427" duration="369000" />
       <workItem from="1742894940149" duration="12000" />
-    </task>
-    <task id="LOCAL-00048" summary="문자 반복 출력하기">
-      <option name="closed" value="true" />
-      <created>1737382412196</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1737382412196</updated>
+      <workItem from="1742910552076" duration="418000" />
     </task>
     <task id="LOCAL-00049" summary="가위 바위 보">
       <option name="closed" value="true" />
@@ -651,7 +642,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742821363731</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="순서 바꾸기">
+      <option name="closed" value="true" />
+      <created>1742910564176</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1742910564178</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
