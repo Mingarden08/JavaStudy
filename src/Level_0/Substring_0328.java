@@ -8,6 +8,7 @@ public class Substring_0328 {
         if (str2.indexOf(str1) != -1) {
             answer = 1;
         }
+
         System.out.println(answer);
     }
 }
