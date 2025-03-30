@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="숫자 찾기">
-      <change afterPath="$PROJECT_DIR$/src/Level_0/Substring_0328.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level_1/KthNumber_0330.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +87,7 @@
     "Application.HarshadNumber_0107.executor": "Run",
     "Application.HideYourCellPhoneNumber_0110.executor": "Run",
     "Application.IntegerDescendingOrder_0105.executor": "Run",
+    "Application.KthNumber_0330.executor": "Run",
     "Application.MakeMaxValue_0103.executor": "Run",
     "Application.MakeTriangle_0103.executor": "Run",
     "Application.MakeWithl_0311.executor": "Debug",
@@ -265,23 +266,9 @@
       <workItem from="1743057488483" duration="7000" />
       <workItem from="1743086239540" duration="197000" />
       <workItem from="1743118290792" duration="122000" />
-      <workItem from="1743163911003" duration="297000" />
-    </task>
-    <task id="LOCAL-00051" summary="숨어있는 숫자의 덧셈 (1)">
-      <option name="closed" value="true" />
-      <created>1737719850243</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1737719850244</updated>
-    </task>
-    <task id="LOCAL-00052" summary="대문자와 소문자">
-      <option name="closed" value="true" />
-      <created>1737764572699</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1737764572699</updated>
+      <workItem from="1743163911003" duration="568000" />
+      <workItem from="1743335069617" duration="441000" />
+      <workItem from="1743342749247" duration="2329000" />
     </task>
     <task id="LOCAL-00053" summary="문자열로 변환">
       <option name="closed" value="true" />
@@ -659,7 +646,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743086290546</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="숫자 찾기">
+      <option name="closed" value="true" />
+      <created>1743164294288</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1743164294289</updated>
+    </task>
+    <task id="LOCAL-00101" summary="숫자 찾기">
+      <option name="closed" value="true" />
+      <created>1743258918288</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1743258918288</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
