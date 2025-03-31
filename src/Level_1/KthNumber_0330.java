@@ -18,7 +18,5 @@ public class KthNumber_0330 {
         }
 
         System.out.println(Arrays.toString(answer));
-
-
     }
 }
