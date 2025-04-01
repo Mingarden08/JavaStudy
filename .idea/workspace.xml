@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="K번째수" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="K번째수">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -274,15 +276,8 @@
       <workItem from="1743377911433" duration="20000" />
       <workItem from="1743428043193" duration="70000" />
       <workItem from="1743429337870" duration="949000" />
-      <workItem from="1743430325079" duration="376000" />
-    </task>
-    <task id="LOCAL-00057" summary="특정 문자 제거하기">
-      <option name="closed" value="true" />
-      <created>1738134336084</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1738134336084</updated>
+      <workItem from="1743430325079" duration="592000" />
+      <workItem from="1743499796390" duration="24000" />
     </task>
     <task id="LOCAL-00058" summary="피자 나눠 먹기 (1)">
       <option name="closed" value="true" />
@@ -668,7 +663,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743430540569</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="K번째수">
+      <option name="closed" value="true" />
+      <created>1743430862528</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1743430862528</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
