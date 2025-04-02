@@ -12,6 +12,7 @@ public class TailString_0401 {
             else {
                 answer += str_list[i];
             }
+
         }
         System.out.println(answer);
     }
