@@ -1,7 +1,5 @@
 package Level_0;
 
-import java.util.Arrays;
-
 public class CreatingAnArray1_0403 {
     public static void main(String[] args) {
         int n = 15;
@@ -14,6 +12,5 @@ public class CreatingAnArray1_0403 {
                 answer[cnt++] = i;
             }
         }
-        System.out.println(Arrays.toString(answer));
     }
 }

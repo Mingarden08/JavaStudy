@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="꼬리 문자열">
-      <change afterPath="$PROJECT_DIR$/src/Level_0/CreatingAnArray1_0403.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="배열 만들기 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -287,15 +284,7 @@
       <workItem from="1743516315418" duration="482000" />
       <workItem from="1743586004474" duration="618000" />
       <workItem from="1743602414569" duration="77000" />
-      <workItem from="1743688817858" duration="300000" />
-    </task>
-    <task id="LOCAL-00060" summary="약수 구하기">
-      <option name="closed" value="true" />
-      <created>1738334489930</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1738334489931</updated>
+      <workItem from="1743688817858" duration="342000" />
     </task>
     <task id="LOCAL-00061" summary="문자열 정수의 합">
       <option name="closed" value="true" />
@@ -681,7 +670,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743602432976</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="배열 만들기 1">
+      <option name="closed" value="true" />
+      <created>1743689149476</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1743689149477</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -726,7 +723,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="대문자로 바꾸기" />
     <MESSAGE value="배열 비교하기" />
     <MESSAGE value="원하는 문자열 찾기" />
     <MESSAGE value="배열에서 문자열 대소문자 변환하기" />
@@ -751,7 +747,8 @@
     <MESSAGE value="숫자 찾기" />
     <MESSAGE value="K번째수" />
     <MESSAGE value="꼬리 문자열" />
-    <option name="LAST_COMMIT_MESSAGE" value="꼬리 문자열" />
+    <MESSAGE value="배열 만들기 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="배열 만들기 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
