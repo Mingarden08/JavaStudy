@@ -144,7 +144,7 @@
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Programming/bookmoment",
+    "last_opened_file_path": "D:/backup/Programming/CodingTest",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -285,14 +285,7 @@
       <workItem from="1743586004474" duration="618000" />
       <workItem from="1743602414569" duration="77000" />
       <workItem from="1743688817858" duration="342000" />
-    </task>
-    <task id="LOCAL-00061" summary="문자열 정수의 합">
-      <option name="closed" value="true" />
-      <created>1738410834492</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1738410834492</updated>
+      <workItem from="1743769379700" duration="99000" />
     </task>
     <task id="LOCAL-00062" summary="가장 큰 수 찾기">
       <option name="closed" value="true" />
@@ -678,7 +671,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743689149477</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="배열 만들기 1">
+      <option name="closed" value="true" />
+      <created>1743769403396</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1743769403396</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -704,19 +705,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
