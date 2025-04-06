@@ -10,6 +10,5 @@ public class FindInteger_0405 {
                 answer = 1;
             }
         }
-        System.out.println(answer);
     }
 }

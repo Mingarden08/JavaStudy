@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="배열 만들기 1" />
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="정수 찾기" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +80,7 @@
     "Application.EvenOdd.executor": "Run",
     "Application.Fibonacci_0106.executor": "Run",
     "Application.FindAverage_0104.executor": "Run",
+    "Application.FindInteger_0405.executor": "Run",
     "Application.FindKim_0107.executor": "Run",
     "Application.FindNumbers_0323.executor": "Run",
     "Application.FindPandYinString_0105.executor": "Run",
@@ -286,14 +287,7 @@
       <workItem from="1743602414569" duration="77000" />
       <workItem from="1743688817858" duration="342000" />
       <workItem from="1743769379700" duration="99000" />
-    </task>
-    <task id="LOCAL-00062" summary="가장 큰 수 찾기">
-      <option name="closed" value="true" />
-      <created>1738486088423</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1738486088424</updated>
+      <workItem from="1743820430766" duration="235000" />
     </task>
     <task id="LOCAL-00063" summary="뒤에서 5등까지">
       <option name="closed" value="true" />
@@ -679,7 +673,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743769403396</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="정수 찾기">
+      <option name="closed" value="true" />
+      <created>1743820635745</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1743820635746</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -712,7 +714,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="배열 비교하기" />
     <MESSAGE value="원하는 문자열 찾기" />
     <MESSAGE value="배열에서 문자열 대소문자 변환하기" />
     <MESSAGE value="n개 간격의 원소들" />
@@ -737,7 +738,8 @@
     <MESSAGE value="K번째수" />
     <MESSAGE value="꼬리 문자열" />
     <MESSAGE value="배열 만들기 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="배열 만들기 1" />
+    <MESSAGE value="정수 찾기" />
+    <option name="LAST_COMMIT_MESSAGE" value="정수 찾기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
