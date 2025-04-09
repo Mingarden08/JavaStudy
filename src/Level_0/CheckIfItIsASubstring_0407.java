@@ -6,7 +6,5 @@ public class CheckIfItIsASubstring_0407 {
         String target = "ana";
         int answer = 0;
         if (my_string.contains(target)) answer = 1;
-
-
     }
 }
