@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="부분 문자열인지 확인하기">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="462b047c-4f37-406c-b829-db32f7ab007b" name="Changes" comment="9로 나눈 나머지" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -301,15 +299,7 @@
       <workItem from="1744281047627" duration="27000" />
       <workItem from="1744291795781" duration="406000" />
       <workItem from="1744327898690" duration="87000" />
-      <workItem from="1744375485034" duration="585000" />
-    </task>
-    <task id="LOCAL-00068" summary=".">
-      <option name="closed" value="true" />
-      <created>1740184239312</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1740184239312</updated>
+      <workItem from="1744375485034" duration="847000" />
     </task>
     <task id="LOCAL-00069" summary="배열 비교하기">
       <option name="closed" value="true" />
@@ -695,7 +685,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744291822356</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="9로 나눈 나머지">
+      <option name="closed" value="true" />
+      <created>1744376189245</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1744376189245</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -728,7 +726,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="배열에서 문자열 대소문자 변환하기" />
     <MESSAGE value="n개 간격의 원소들" />
     <MESSAGE value="." />
     <MESSAGE value="할 일 목록" />
@@ -753,7 +750,8 @@
     <MESSAGE value="배열 만들기 1" />
     <MESSAGE value="정수 찾기" />
     <MESSAGE value="부분 문자열인지 확인하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="부분 문자열인지 확인하기" />
+    <MESSAGE value="9로 나눈 나머지" />
+    <option name="LAST_COMMIT_MESSAGE" value="9로 나눈 나머지" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -12,6 +12,6 @@ public class $5thPlaceFromBehind_0318 {
             answer[i] = num_list[cnt++];
         }
         Arrays.sort(answer);
-        System.out.println(Arrays.toString(answer));
+
     }
 }
