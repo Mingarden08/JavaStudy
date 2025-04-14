@@ -11,6 +11,5 @@ public class AddUntilItIsGreaterThanN_0413 {
                 break;
             }
         }
-        System.out.println(answer);
     }
 }
